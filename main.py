@@ -4,7 +4,7 @@ import asyncio
 import os
 import traceback
 
-from PyTgcalls import pytgcalls
+
 from pyrogram import filters, idle
 from pyrogram.errors.exceptions.bad_request_400 import \
     ChatAdminRequired
